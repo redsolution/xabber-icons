@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/format-list-bulleted</title>
+    <g id="icon/material/format-list-bulleted" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M8,5 L22,5 L22,7 L8,7 L8,5 M8,13 L8,11 L22,11 L22,13 L8,13 M5,4.5 C5.82842712,4.5 6.5,5.17157288 6.5,6 C6.5,6.82842712 5.82842712,7.5 5,7.5 C4.17157288,7.5 3.5,6.82842712 3.5,6 C3.5,5.17157288 4.17157288,4.5 5,4.5 M5,10.5 C5.82842712,10.5 6.5,11.1715729 6.5,12 C6.5,12.8284271 5.82842712,13.5 5,13.5 C4.17157288,13.5 3.5,12.8284271 3.5,12 C3.5,11.1715729 4.17157288,10.5 5,10.5 M8,19 L8,17 L22,17 L22,19 L8,19 M5,16.5 C5.82842712,16.5 6.5,17.1715729 6.5,18 C6.5,18.8284271 5.82842712,19.5 5,19.5 C4.17157288,19.5 3.5,18.8284271 3.5,18 C3.5,17.1715729 4.17157288,16.5 5,16.5 Z" id="mdi:format-list-bulleted" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

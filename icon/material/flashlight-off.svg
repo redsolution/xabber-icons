@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/flashlight-off</title>
+    <g id="icon/material/flashlight-off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M2,5.27 L3.28,4 L20,20.72 L18.73,22 L15,18.27 L15,22 L9,22 L9,12.27 L2,5.27 M18,5 L15,10 L11.82,10 L6.82,5 L18,5 M18,4 L6,4 L6,2 L18,2 L18,4 M15,11 L15,13.18 L12.82,11 L15,11 Z" id="mdi:flashlight-off" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

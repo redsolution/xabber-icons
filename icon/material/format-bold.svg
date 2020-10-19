@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/format-bold</title>
+    <g id="icon/material/format-bold" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M13.5,16.5 L10,16.5 L10,13.5 L13.5,13.5 C14.3284271,13.5 15,14.1715729 15,15 C15,15.8284271 14.3284271,16.5 13.5,16.5 M10,7.5 L13,7.5 C13.8284271,7.5 14.5,8.17157288 14.5,9 C14.5,9.82842712 13.8284271,10.5 13,10.5 L10,10.5 M15.6,11.79 C16.57,11.11 17.25,10 17.25,9 C17.25,6.74 15.5,5 13.25,5 L7,5 L7,19 L14.04,19 C16.14,19 17.75,17.3 17.75,15.21 C17.75,13.69 16.89,12.39 15.6,11.79 Z" id="mdi:format-bold" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

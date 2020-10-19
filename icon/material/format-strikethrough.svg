@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/format-strikethrough</title>
+    <g id="icon/material/format-strikethrough" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M23,12 L23,14 L18.61,14 C19.61,16.14 19.56,22 12.38,22 C4.05,22.05 4.37,15.5 4.37,15.5 L8.34,15.55 C8.37,18.92 11.5,18.92 12.12,18.88 C12.76,18.83 15.15,18.84 15.34,16.5 C15.42,15.41 14.32,14.58 13.12,14 L1,14 L1,12 L23,12 M19.41,7.89 L15.43,7.86 C15.43,7.86 15.6,5.09 12.15,5.08 C8.7,5.06 9,7.28 9,7.56 C9.04,7.84 9.34,9.22 12,9.88 L5.71,9.88 C5.71,9.88 2.22,3.15 10.74,2 C19.45,0.8 19.43,7.91 19.41,7.89 Z" id="mdi:format-strikethrough" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

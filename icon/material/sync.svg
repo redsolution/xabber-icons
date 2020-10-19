@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/sync</title>
+    <g id="icon/material/sync" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M11.9999997,18 C8.6862915,18 5.99999969,15.3137085 5.99999969,12 C5.99999969,11 6.25,10.03 6.7,9.2 L5.24,7.74 C4.42975252,9.01309029 3.99958008,10.4909408 3.99999969,12 C3.99999969,16.418278 7.581722,20 11.9999997,20 L11.9999997,23 L15.9999997,19 L11.9999997,15 M12,4 L12,1 L8,5 L12,9 L12,6 C15.3137085,6 18,8.6862915 18,12 C18,13 17.75,13.97 17.3,14.8 L18.76,16.26 C19.5702475,14.9869097 20.0004199,13.5090592 20,12 C20,7.581722 16.418278,4 12,4 L12,4 Z" id="mdi:sync" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

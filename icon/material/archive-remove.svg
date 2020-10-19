@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/archive-remove</title>
+    <g id="icon/material/archive-remove" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M20.54,5.23 C20.83,5.57 21,6 21,6.5 L21,19 C21,20.1045695 20.1045695,21 19,21 L5,21 C3.8954305,21 3,20.1045695 3,19 L3,6.5 C3,6 3.17,5.57 3.46,5.23 L4.84,3.55 C5.12,3.21 5.53,3 6,3 L18,3 C18.47,3 18.88,3.21 19.15,3.55 L20.54,5.23 M5.12,5 L18.87,5 L17.93,4 L5.93,4 L5.12,5 M12,9.5 L6.5,15 L10,15 L10,17 L14,17 L14,15 L17.5,15 L12,9.5 Z" id="mdi:package-up" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
