@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/iOS/leave</title>
+    <g id="icon/iOS/leave" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M13.34,8.17 C12.41,8.17 11.65,7.4 11.65,6.47 C11.65,5.53663877 12.4066388,4.78 13.34,4.78 C14.28,4.78 15.04,5.54 15.04,6.47 C15.04,7.4 14.28,8.17 13.34,8.17 M10.3,19.93 L4.37,18.75 L4.71,17.05 L8.86,17.9 L10.21,11.04 L8.69,11.64 L8.69,14.5 L7,14.5 L7,10.54 L11.4,8.67 L12.07,8.59 C12.67,8.59 13.17,8.93 13.5,9.44 L14.36,10.79 C15.04,12 16.39,12.82 18,12.82 L18,14.5 C16.14,14.5 14.44,13.67 13.34,12.4 L12.84,14.94 L14.61,16.63 L14.61,23 L12.92,23 L12.92,17.9 L11.14,16.21 L10.3,19.93 M21,23 L19,23 L19,3 L6,3 L6,16.11 L4,15.69 L4,1 L21,1 L21,23 M6,23 L4,23 L4,19.78 L6,20.2 L6,23 Z" id="mdi:exit-run" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

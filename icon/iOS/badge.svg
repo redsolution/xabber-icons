@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/iOS/badge</title>
+    <g id="icon/iOS/badge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M17,3 L14,3 L14,6 L10,6 L10,3 L7,3 C5.8954305,3 5,3.8954305 5,5 L5,21 C5,22.1045695 5.8954305,23 7,23 L17,23 C18.1045695,23 19,22.1045695 19,21 L19,5 C19,3.8954305 18.1045695,3 17,3 M12,8 C13.1045695,8 14,8.8954305 14,10 C14,11.1045695 13.1045695,12 12,12 C10.8954305,12 10,11.1045695 10,10 C10,8.8954305 10.8954305,8 12,8 M16,16 L8,16 L8,15 C8,13.67 10.67,13 12,13 C13.33,13 16,13.67 16,15 L16,16 M13,5 L11,5 L11,1 L13,1 L13,5 M16,19 L8,19 L8,18 L16,18 L16,19 M12,21 L8,21 L8,20 L12,20 L12,21 Z" id="mdi:badge-account" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
