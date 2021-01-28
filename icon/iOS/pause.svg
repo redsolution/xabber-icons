@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/iOS/pause</title>
+    <g id="icon/iOS/pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M7.30818881,20 L9.55080972,20 C10.4065583,20 10.8590187,19.5481878 10.8590187,18.6838549 L10.8590187,5.30631465 C10.8590187,4.41252677 10.4065583,4 9.55080972,4 L7.30818881,4 C6.45246037,4 6,4.45181216 6,5.30631465 L6,18.6838549 C6,19.5481878 6.45246037,20 7.30818881,20 Z M14.4590207,20 L16.691791,20 C17.55737,20 18,19.5481878 18,18.6838549 L18,5.30631465 C18,4.41252677 17.55737,4 16.691791,4 L14.4590207,4 C13.5934417,4 13.1409813,4.45181216 13.1409813,5.30631465 L13.1409813,18.6838549 C13.1409813,19.5481878 13.5934417,20 14.4590207,20 Z" id="sfsymbols:pause.fill" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

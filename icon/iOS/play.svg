@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/iOS/play</title>
+    <g id="icon/iOS/play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M7.19046136,20.5 C7.58730212,20.5 7.9245924,20.3393385 8.32143317,20.108389 L19.8888784,13.3405246 C20.7123047,12.8484943 21,12.5271713 21,11.9949781 C21,11.462785 20.7123047,11.141462 19.8888784,10.6594877 L8.32143317,3.88157749 C7.9245924,3.65063622 7.58730212,3.5 7.19046136,3.5 C6.45635063,3.5 6,4.06232039 6,4.93592822 L6,19.0540473 C6,19.927644 6.45635063,20.5 7.19046136,20.5 Z" id="sfsymbols:play.fill" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
