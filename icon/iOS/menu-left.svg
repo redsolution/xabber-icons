@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/iOS/menu-left</title>
+    <g id="icon/iOS/menu-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12.00488,15.77539 C12.24902,15.77539 12.49316,15.677734 12.65918,15.492194 L18.21778,9.748054 C18.38378,9.582034 18.48144,9.367194 18.48144,9.123054 C18.48144,8.615234 18.10058,8.224614 17.59278,8.224614 C17.34864,8.224614 17.12402,8.322274 16.958,8.478514 L12.00488,13.587894 L7.042,8.478514 C6.88574,8.322274 6.66114,8.224614 6.40722,8.224614 C5.89942,8.224614 5.51856,8.615234 5.51856,9.123054 C5.51856,9.367194 5.61622,9.582034 5.78222,9.757814 L11.34082,15.492194 C11.52636,15.677734 11.75098,15.77539 12.00488,15.77539 Z" id="xabber:menu-left" fill="#000000" fill-rule="nonzero" transform="translate(12.000000, 12.000002) rotate(90.000000) translate(-12.000000, -12.000002) "></path>
+    </g>
+</svg>
