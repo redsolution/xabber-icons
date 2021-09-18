@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/bell-off-outline</title>
+    <g id="icon/material/bell-off-outline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M22.11,21.46 L2.39,1.73 L1.11,3 L5.83,7.72 C5.28833414,8.728645 5.00328164,9.85511753 5,11 L5,17 L3,19 L3,20 L18.11,20 L20.84,22.73 L22.11,21.46 M7,18 L7,11 C7,10.39 7.11,9.79 7.34,9.23 L16.11,18 L7,18 M10,21 L14,21 C14,22.1045695 13.1045695,23 12,23 C10.8954305,23 10,22.1045695 10,21 M8.29,5.09 C8.82,4.75 9.4,4.5 10,4.29 L10,4 C10,2.8954305 10.8954305,2 12,2 C13.1045695,2 14,2.8954305 14,4 L14,4.29 C16.97,5.17 19,7.9 19,11 L19,15.8 L17,13.8 L17,11 C17,8.23857625 14.7614237,6 12,6 C11.22,6 10.45,6.2 9.76,6.56 L8.29,5.09 Z" id="mdi:bell-off-outline" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
