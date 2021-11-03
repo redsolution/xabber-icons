@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/xmpp copy</title>
+    <g id="icon/material/xmpp-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M7.91012437,19.491944 C7.67687516,19.449608 7.5,19.2454599 7.5,19 C7.5,18.7545401 7.67687516,18.550392 7.91012437,18.508056 L8,18.5 C9.03093987,18.3467063 9.88093987,18.0667063 10.55,17.66 C6.33,15.11 2,10.65 2,5 L8,7 C8,10.54 9.75,14.09 12,16.4 C14.25,14.09 16,10.54 16,7 L22,5 C22,10.65 17.66,15.11 13.45,17.66 C14.8,18.3018752 14.8,18.3018752 16,18.5 C16.2692489,18.5444541 16.5,18.7238576 16.5,19 C16.5,19.2761424 16.2761424,19.5 16,19.5 C14.8,19.5 13.97,19.46 12,18.46 C10.1458824,19.4011765 9.41577855,19.4348791 8.21820476,19.494411 L8,19.5 L7.91012437,19.491944 Z" id="xabber:xmpp-outline-original" stroke="#000000" stroke-linejoin="round" fill-rule="nonzero"></path>
+    </g>
+</svg>
