@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/menu-variant</title>
+    <g id="icon/material/menu-variant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="3" width="24" height="24"></rect>
+        <path d="M19.255,15.03 L21,16 L12,21 L3,16 L4.745,15.03 L12,19.06 L19.255,15.03 Z M19.255,11.03 L21,12 L12,17 L3,12 L4.745,11.03 L12,15.06 L19.255,11.03 Z M12,3 L21,8 L12,13 L3,8 L12,3 Z M12,4.944 L6.5,8 L12,11.056 L17.5,8 L12,4.944 Z" id="xabber:menu" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
