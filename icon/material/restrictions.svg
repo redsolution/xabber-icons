@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/restrictions</title>
+    <g id="icon/material/restrictions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M19.75,8 C19.06,8 18.5,8.56 18.5,9.25 L18.5,15 L18,15 C16.35,15 15,16.35 15,18 L14,18 C14,15.96 15.53,14.28 17.5,14.03 L17.5,3.25 C17.5,2.55964406 16.9403559,2 16.25,2 C15.5596441,2 15,2.55964406 15,3.25 L15,11 L14,11 L14,1.25 C14,0.559644063 13.4403559,0 12.75,0 C12.0596441,0 11.5,0.559644063 11.5,1.25 L11.5,11 L10.5,11 L10.5,2.75 C10.5,2.05964406 9.94035594,1.5 9.25,1.5 C8.55964406,1.5 8,2.05964406 8,2.75 L8,12 L7,12 L7,5.75 C7,5.05964406 6.44035594,4.5 5.75,4.5 C5.05964406,4.5 4.5,5.05964406 4.5,5.75 L4.5,15.75 C4.5,20.31 8.19,24 12.75,24 C17.31,24 21,20.31 21,15.75 L21,9.25 C21,8.56 20.44,8 19.75,8 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
