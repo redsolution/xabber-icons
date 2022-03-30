@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/mute</title>
+    <g id="icon/material/mute" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M2,3.27 L3.28,2 L22,20.72 L20.73,22 L16.73,18 C16.9,18.31 17,18.64 17,19 L17,21 L1,21 L1,19 C1,16.34 6.33,15 9,15 C10.77,15 13.72,15.59 15.5,16.77 L11.12,12.39 C10.5,12.78 9.78,13 9,13 C6.790861,13 5,11.209139 5,9 C5,8.22 5.22,7.5 5.61,6.88 L2,3.27 M9,5 C11.209139,5 13,6.790861 13,9 L13,9.17 L8.83,5 L9,5 M16.76,5.36 C18.78,7.56 18.78,10.61 16.76,12.63 L15.08,10.94 C15.92,9.76 15.92,8.23 15.08,7.05 L16.76,5.36 M20.07,2 C24,6.05 23.97,12.11 20.07,16 L18.44,14.37 C21.21,11.19 21.21,6.65 18.44,3.63 L20.07,2 Z" id="mdi:account-voice-off" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
