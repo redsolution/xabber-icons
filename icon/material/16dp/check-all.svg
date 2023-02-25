@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/16dp/check-all</title>
+    <g id="icon/material/16dp/check-all" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14.5,4.5 L15.5,5.5 L8.5,12.5 L4,8 L5,7 L8.5,10.5 L14.5,4.5 Z M2,7.5 L6,11.5 L5,12.5 L1,8.5 L2,7.5 Z M11.5,4 L12.5,5 L8.5,9 L7.5,8 L11.5,4 Z" id="xabber:check-all-16dp" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

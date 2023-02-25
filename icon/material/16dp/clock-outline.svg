@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/16dp/clock-outline</title>
+    <g id="icon/material/16dp/clock-outline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+        <path d="M8,0 C10.1217319,0 12.1565632,0.842854723 13.6568542,2.34314575 C15.1571453,3.84343678 16,5.87826808 16,8 C16,12.418278 12.418278,16 8,16 C3.576,16 0,12.4 0,8 C0,3.581722 3.581722,0 8,0 Z M8,1.5 C4.41014913,1.5 1.5,4.41014913 1.5,8 C1.5,11.5898509 4.41014913,14.5 8,14.5 C11.5898509,14.5 14.5,11.5898509 14.5,8 C14.5,4.41014913 11.5898509,1.5 8,1.5 Z M8.5,3 L8.5,8.25 L11.79,10.202 L11.05,11.429 L7,9 L7,3 L8.5,3 Z" id="xabber:clock-outline-16dp" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

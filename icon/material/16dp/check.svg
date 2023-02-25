@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/16dp/check</title>
+    <g id="icon/material/16dp/check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+        <polygon id="xabber:check-16dp" fill="#000000" fill-rule="nonzero" points="14 5 6.5 12.5 2.5 8.5 3.5 7.5 6.5 10.5 13 4"></polygon>
+    </g>
+</svg>

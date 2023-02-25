@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/16dp/clock</title>
+    <g id="icon/material/16dp/clock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M8,0 C10.1217319,0 12.1565632,0.842854723 13.6568542,2.34314575 C15.1571453,3.84343678 16,5.87826808 16,8 C16,10.1217319 15.1571453,12.1565632 13.6568542,13.6568542 C12.1565632,15.1571453 10.1217319,16 8,16 C5.87826808,16 3.84343678,15.1571453 2.34314575,13.6568542 C0.842854723,12.1565632 0,10.1217319 0,8 C0,3.581722 3.581722,0 8,0 Z M8.5,3 L7,3 L7,9 L11.022,11.476 L11.803,10.182 L8.5,8.2 L8.5,3 Z" id="xabber:clock-16dp" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
