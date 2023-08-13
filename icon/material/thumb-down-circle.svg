@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/thumb-down-circle</title>
+    <g id="icon/material/thumb-down-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 Z M13,8 L8.5,8 C8.085,8 7.73,8.25 7.58,8.61 L6.07,12.135 C6.025,12.25 6,12.37 6,12.5 L6,13.5 C6,14.0522847 6.44771525,14.5 7,14.5 L10.16,14.5 L9.75,17.5 C9.74,17.55 9.735,17.605 9.735,17.66 C9.735,17.865 9.82,18.055 9.955,18.19 L10.485,18.715 L13.705,14.71 C13.89,14.525 14,14.275 14,14 L14,9 C14,8.44771525 13.5522847,8 13,8 Z M17,8 L15,8 L15,14 L17,14 L17,8 Z" id="xabber:thumb-down-circle" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
