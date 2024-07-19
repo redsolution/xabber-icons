@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icon/iOS/video</title>
-    <g id="icon/iOS/video" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M16,5 C17.1045695,5 18,5.8954305 18,7 L18,9.675 L21.8958339,7.58889002 C22.3642319,7.33796252 22.9248421,7.64041203 22.9930887,8.14622879 L23,8.25 L23,15.75 C23,16.2813768 22.4686647,16.6327203 21.9905698,16.4540208 L21.8958339,16.41111 L18,14.324 L18,17 C18,18.1045695 17.1045695,19 16,19 L3,19 C1.8954305,19 1,18.1045695 1,17 L1,7 C1,5.8954305 1.8954305,5 3,5 L16,5 Z" id="xabber:video" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>

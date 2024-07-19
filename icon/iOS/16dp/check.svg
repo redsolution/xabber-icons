@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icon/iOS/16dp/check</title>
-    <g id="icon/iOS/16dp/check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
-        <path d="M13.7914897,3.21148972 C14.0668093,2.93617009 14.5131907,2.93617009 14.7885103,3.21148972 C15.0638299,3.48680934 15.0638299,3.93319066 14.7885103,4.20851028 L6.49851028,12.4985103 C6.22319066,12.7738299 5.77680934,12.7738299 5.50148972,12.4985103 L2.20148972,9.19851028 C1.92617009,8.92319066 1.92617009,8.47680934 2.20148972,8.20148972 C2.47680934,7.92617009 2.92319066,7.92617009 3.19851028,8.20148972 L6,11.003 L13.7914897,3.21148972 Z" id="xabber:check-16dp" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>

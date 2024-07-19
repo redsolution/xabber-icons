@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icon/iOS/chevron-up</title>
-    <g id="icon/iOS/chevron-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M3.78222,15.25195 C3.61622,15.40821 3.51856,15.63281 3.51856,15.88673 C3.51856,16.39453 3.89942,16.77539 4.40722,16.77539 C4.66114,16.77539 4.8955,16.68751 5.042,16.52149 L12.00488,9.41211 L18.958,16.52149 C19.11426,16.68751 19.34864,16.77539 19.59278,16.77539 C20.10058,16.77539 20.48144,16.39453 20.48144,15.88673 C20.48144,15.63281 20.38378,15.40821 20.21778,15.25195 L12.65918,7.51759 C12.49316,7.33203 12.24902,7.22461 12.00488,7.22461 C11.75098,7.22461 11.5166,7.33203 11.34082,7.51759 L3.78222,15.25195 Z" id="sfsymbols:chevron.up" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>

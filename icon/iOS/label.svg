@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icon/iOS/label</title>
-    <g id="icon/iOS/label" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M6,5 L15.4561463,5 C16.4249996,5 17.3342122,5.46789705 17.8973467,6.25628542 L22,12 L22,12 L17.8973467,17.7437146 C17.3342122,18.5321029 16.4249996,19 15.4561463,19 L6,19 C4.34314575,19 3,17.6568542 3,16 L3,8 C3,6.34314575 4.34314575,5 6,5 Z" id="xabber:label" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>

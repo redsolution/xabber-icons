@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>icon/iOS/circle</title>
-    <g id="icon/iOS/circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M11.9999568,22 C17.4705246,22 22,17.4705861 22,12 C22,6.53921015 17.4607264,2 11.9901586,2 C6.52938903,2 2,6.53921015 2,12 C2,17.4705861 6.53920735,22 11.9999568,22 Z M11.9999568,20.33333 C7.37251918,20.33333 3.67645603,16.6274548 3.67645603,12 C3.67645603,7.38234343 7.36272095,3.66667001 11.9901586,3.66667001 C16.6175962,3.66667001 20.3234576,7.38234343 20.3333155,12 C20.3431344,16.6274548 16.6273945,20.33333 11.9999568,20.33333 Z" id="xabber:circle" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>
