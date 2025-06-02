@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/call-rejected</title>
+    <g id="icon/material/call-rejected" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <polyline id="xabberi:call-rejected" fill="#000000" points="4.41 7 12 14.59 17.59 9 13 9 13 7 21 7 21 15 19 15 19 10.41 12 17.41 3 8.41"></polyline>
+    </g>
+</svg>
