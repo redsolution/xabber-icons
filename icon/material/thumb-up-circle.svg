@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>icon/material/thumb-up-circle</title>
-    <g id="icon/material/thumb-up-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 Z M13.515,5.285 L10.295,9.29 C10.11,9.475 10,9.725 10,10 L10,15 C10,15.5522847 10.4477153,16 11,16 L15.5,16 C15.915,16 16.27,15.75 16.42,15.39 L17.93,11.865 C17.975,11.75 18,11.63 18,11.5 L18,10.5 C18,9.94771525 17.5522847,9.5 17,9.5 L13.84,9.5 L14.25,6.5 C14.26,6.45 14.265,6.395 14.265,6.34 C14.265,6.135 14.18,5.945 14.045,5.81 L13.515,5.285 Z M9,10 L7,10 L7,16 L9,16 L9,10 Z" id="xabber:thumb-up-circle" fill="#000000" fill-rule="nonzero"></path>
+    <g id="icon/material/thumb-up-circle" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 Z M13.515,5.285 L10.295,9.29 C10.11,9.475 10,9.725 10,10 L10,15 C10,15.5522847 10.4477153,16 11,16 L15.5,16 C15.915,16 16.27,15.75 16.42,15.39 L17.93,11.865 C17.975,11.75 18,11.63 18,11.5 L18,10.5 C18,9.94771525 17.5522847,9.5 17,9.5 L13.84,9.5 L14.25,6.5 C14.26,6.45 14.265,6.395 14.265,6.34 C14.265,6.135 14.18,5.945 14.045,5.81 L13.515,5.285 Z M9,10 L7,10 L7,16 L9,16 L9,10 Z" id="xabber:thumb-up-circle" fill="#000000"></path>
     </g>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>icon/material/archive-remove copy</title>
-    <g id="icon/material/archive-remove-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M20,21 L4,21 L4,10 L6,10 L6,19 L18,19 L18,10 L20,10 L20,21 M3,3 L21,3 L21,9 L3,9 L3,3 M5,5 L5,7 L19,7 L19,5 M10.5,17 L10.5,14 L8,14 L12,10 L16,14 L13.5,14 L13.5,17" id="mdi:archive-arrow-up-outline" fill="#000000" fill-rule="nonzero"></path>
+    <g id="icon/material/archive-remove-copy" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M20,21 L4,21 L4,10 L6,10 L6,19 L18,19 L18,10 L20,10 L20,21 M3,3 L21,3 L21,9 L3,9 L3,3 M5,5 L5,7 L19,7 L19,5 M10.5,17 L10.5,14 L8,14 L12,10 L16,14 L13.5,14 L13.5,17" id="mdi:archive-arrow-up-outline" fill="#000000"></path>
     </g>
 </svg>

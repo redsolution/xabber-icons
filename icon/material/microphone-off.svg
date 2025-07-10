@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>icon/material/microphone-off</title>
-    <g id="icon/material/microphone-off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M19,11 C19,12.19 18.66,13.3 18.1,14.28 L16.87,13.05 C17.14,12.43 17.3,11.74 17.3,11 L19,11 M15,11.16 L9,5.18 L9,5 C9,3.34314575 10.3431458,2 12,2 C13.6568542,2 15,3.34314575 15,5 L15,11 L15,11.16 M4.27,3 L21,19.73 L19.73,21 L15.54,16.81 C14.77,17.27 13.91,17.58 13,17.72 L13,21 L11,21 L11,17.72 C7.72,17.23 5,14.41 5,11 L6.7,11 C6.7,14 9.24,16.1 12,16.1 C12.81,16.1 13.6,15.91 14.31,15.58 L12.65,13.92 L12,14 C10.3431458,14 9,12.6568542 9,11 L9,10.28 L3,4.27 L4.27,3 Z" id="mdi:microphone-off" fill="#000000" fill-rule="nonzero"></path>
+    <g id="icon/material/microphone-off" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M19,11 C19,12.19 18.66,13.3 18.1,14.28 L16.87,13.05 C17.14,12.43 17.3,11.74 17.3,11 L19,11 M15,11.16 L9,5.18 L9,5 C9,3.34314575 10.3431458,2 12,2 C13.6568542,2 15,3.34314575 15,5 L15,11 L15,11.16 M4.27,3 L21,19.73 L19.73,21 L15.54,16.81 C14.77,17.27 13.91,17.58 13,17.72 L13,21 L11,21 L11,17.72 C7.72,17.23 5,14.41 5,11 L6.7,11 C6.7,14 9.24,16.1 12,16.1 C12.81,16.1 13.6,15.91 14.31,15.58 L12.65,13.92 L12,14 C10.3431458,14 9,12.6568542 9,11 L9,10.28 L3,4.27 L4.27,3 Z" id="mdi:microphone-off" fill="#000000"></path>
     </g>
 </svg>

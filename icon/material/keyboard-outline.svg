@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>icon/material/keyboard-outline</title>
-    <g id="icon/material/keyboard-outline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M4,5 C2.8954305,5 2,5.8954305 2,7 L2,17 C2,18.1045695 2.8954305,19 4,19 L20,19 C21.1045695,19 22,18.1045695 22,17 L22,7 C22,5.8954305 21.1045695,5 20,5 L4,5 M4,7 L20,7 L20,17 L4,17 L4,7 M5,8 L5,10 L7,10 L7,8 L5,8 M8,8 L8,10 L10,10 L10,8 L8,8 M11,8 L11,10 L13,10 L13,8 L11,8 M14,8 L14,10 L16,10 L16,8 L14,8 M17,8 L17,10 L19,10 L19,8 L17,8 M5,11 L5,13 L7,13 L7,11 L5,11 M8,11 L8,13 L10,13 L10,11 L8,11 M11,11 L11,13 L13,13 L13,11 L11,11 M14,11 L14,13 L16,13 L16,11 L14,11 M17,11 L17,13 L19,13 L19,11 L17,11 M8,14 L8,16 L16,16 L16,14 L8,14 Z" id="mdi:keyboard-outline" fill="#000000" fill-rule="nonzero"></path>
+    <g id="icon/material/keyboard-outline" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M4,5 C2.8954305,5 2,5.8954305 2,7 L2,17 C2,18.1045695 2.8954305,19 4,19 L20,19 C21.1045695,19 22,18.1045695 22,17 L22,7 C22,5.8954305 21.1045695,5 20,5 L4,5 M4,7 L20,7 L20,17 L4,17 L4,7 M5,8 L5,10 L7,10 L7,8 L5,8 M8,8 L8,10 L10,10 L10,8 L8,8 M11,8 L11,10 L13,10 L13,8 L11,8 M14,8 L14,10 L16,10 L16,8 L14,8 M17,8 L17,10 L19,10 L19,8 L17,8 M5,11 L5,13 L7,13 L7,11 L5,11 M8,11 L8,13 L10,13 L10,11 L8,11 M11,11 L11,13 L13,13 L13,11 L11,11 M14,11 L14,13 L16,13 L16,11 L14,11 M17,11 L17,13 L19,13 L19,11 L17,11 M8,14 L8,16 L16,16 L16,14 L8,14 Z" id="mdi:keyboard-outline" fill="#000000"></path>
     </g>
 </svg>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>icon/material/skip-previous</title>
-    <g id="icon/material/skip-previous" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M6,18 L6,6 L8,6 L8,18 L6,18 M9.5,12 L18,6 L18,18 L9.5,12 Z" id="mdi:skip-previous" fill="#000000" fill-rule="nonzero"></path>
+    <g id="icon/material/skip-previous" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M6,18 L6,6 L8,6 L8,18 L6,18 M9.5,12 L18,6 L18,18 L9.5,12 Z" id="mdi:skip-previous" fill="#000000"></path>
     </g>
 </svg>

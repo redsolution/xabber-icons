@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>icon/material/moon</title>
-    <g id="icon/material/moon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <path d="M6,8 C6,13.5228475 10.4771525,18 16,18 C17.7329613,18 19.3629654,17.5591879 20.7840001,16.783576 C19.0877192,19.8914895 15.7900941,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,8.21011379 4.10827921,4.91264257 7.21599994,3.21642405 C6.4408121,4.63703461 6,6.26703871 6,8 Z" id="xabber.moon-crescent" fill="#000000" fill-rule="nonzero"></path>
+    <g id="icon/material/moon" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M6,8 C6,13.5228475 10.4771525,18 16,18 C17.7329613,18 19.3629654,17.5591879 20.7840001,16.783576 C19.0877192,19.8914895 15.7900941,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,8.21011379 4.10827921,4.91264257 7.21599994,3.21642405 C6.4408121,4.63703461 6,6.26703871 6,8 Z" id="xabber.moon-crescent" fill="#000000"></path>
     </g>
 </svg>
