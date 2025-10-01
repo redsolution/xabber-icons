@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/account-check-outline</title>
+    <g id="icon/material/account-check-outline" stroke="none" fill="none">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M21.1,12.5 L22.5,13.91 L15.97,20.5 L12.5,17 L13.9,15.59 L15.97,17.67 L21.1,12.5 Z M11,4 C13.209139,4 15,5.790861 15,8 C15,10.209139 13.209139,12 11,12 C8.790861,12 7,10.209139 7,8 C7,5.790861 8.790861,4 11,4 M11,6 C9.8954305,6 9,6.8954305 9,8 C9,9.1045695 9.8954305,10 11,10 C12.1045695,10 13,9.1045695 13,8 C13,6.8954305 12.1045695,6 11,6 M11,13 C11.68,13 12.5,13.09 13.41,13.26 L11.74,14.93 L11,14.9 C8.03,14.9 4.9,16.36 4.9,17 L4.9,18.1 L11.1,18.1 L13,20 L3,20 L3,17 C3,14.34 8.33,13 11,13" id="mdi:account-check-outline" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
