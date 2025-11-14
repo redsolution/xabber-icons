@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/account-star-outline</title>
+    <g id="icon/material/account-star-outline" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M15,4 C17.209139,4 19,5.790861 19,8 C19,10.209139 17.209139,12 15,12 C12.790861,12 11,10.209139 11,8 C11,5.790861 12.790861,4 15,4 M15,5.9 C13.840202,5.9 12.9,6.84020203 12.9,8 C12.9,9.15979797 13.840202,10.1 15,10.1 C16.159798,10.1 17.1,9.15979797 17.1,8 C17.1,6.84020203 16.159798,5.9 15,5.9 M15,13 C17.67,13 23,14.33 23,17 L23,20 L7,20 L7,17 C7,14.33 12.33,13 15,13 M15,14.9 C12,14.9 8.9,16.36 8.9,17 L8.9,18.1 L21.1,18.1 L21.1,17 C21.1,16.36 17.97,14.9 15,14.9 M5,13.28 L2.5,14.77 L3.18,11.96 L1,10.08 L3.87,9.83 L5,7.19 L6.11,9.83 L9,10.08 L6.8,11.96 L7.45,14.77 L5,13.28 Z" id="mdi:account-star-outline" fill="#000000"></path>
+    </g>
+</svg>

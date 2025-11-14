@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/account-edit-outline</title>
+    <g id="icon/material/account-edit-outline" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M2,17 L2,20 L10,20 L10,18.11 L3.9,18.11 L3.9,17 C3.9,16.36 7.03,14.9 10,14.9 C10.96,14.91 11.91,15.04 12.83,15.28 L14.35,13.76 C12.95,13.29 11.5,13.03 10,13 C7.33,13 2,14.33 2,17 M10,4 C7.79,4 6,5.79 6,8 C6,10.21 7.79,12 10,12 C12.21,12 14,10.21 14,8 C14,5.79 12.21,4 10,4 M10,10 C8.9,10 8,9.11 8,8 C8,6.89 8.9,6 10,6 C11.1,6 12,6.9 12,8 C12,9.1 11.11,10 10,10 M21.7,13.35 L20.7,14.35 L18.65,12.35 L19.65,11.35 C19.8638639,11.1403714 20.2061361,11.1403714 20.42,11.35 L21.7,12.63 C21.91,12.84 21.91,13.19 21.7,13.4 M12,18.94 L18.06,12.88 L20.11,14.88 L14.11,20.95 L12,20.95 L12,18.94 Z" id="mdi:account-edit-outline" fill="#000000"></path>
+    </g>
+</svg>
