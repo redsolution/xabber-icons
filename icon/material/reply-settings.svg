@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/material/reply-settings</title>
+    <g id="icon/material/reply-settings" stroke="none" fill="none" fill-rule="nonzero">
+        <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+        <path d="M10,8 L10,4 L3,11 L10,18 L10,13.9 C15,13.9 18.5,15.5 21,19 C20,14 17,9 10,8 Z M7,22 L9,22 L9,24 L7,24 L7,22 Z M11,22 L13,22 L13,24 L11,24 L11,22 Z M15,22 L17,22 L17,24 L15,24 L15,22 Z" id="xabber:reply-settings" fill="#000000"></path>
+    </g>
+</svg>
